@@ -1,5 +1,7 @@
 # Building Agentic Apps in Swift
 
+Notes from my [presentation](https://www.youtube.com/watch?v=ekOzNd1_vo8) on 22 January 2026 at the Swift Barcelona meetup.
+
 - Swift packages
   - [Swift AI](https://github.com/DePasqualeOrg/swift-ai)
     - API clients for Anthropic, Gemini, OpenAI, xAI, and more with tool use and MCP integration
